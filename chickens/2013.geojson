@@ -2,9 +2,9 @@
   "features": [
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [ 39.766555,-86.441277 ]},
-      "properties": {"label": "Broilers 24-May-2013"}}},
+      "properties": {"label": "Broilers 24-May-2013"}},
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [ 40.240001,-86.250229 ]},
-      "properties": {"label": "Broilers (2) 24-May-2013"}}}
+      "properties": {"label": "Broilers (2) 24-May-2013"}}
   ]
 }

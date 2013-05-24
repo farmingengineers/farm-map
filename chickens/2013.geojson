@@ -1,10 +1,13 @@
 { "type": "FeatureCollection",
   "features": [
     { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [ -86.441277,39.766555 ]},
+      "geometry": {"type": "Point", "coordinates": [ -86.250229,40.240001 ]},
       "properties": {"label": "Broilers 24-May-2013"}},
     { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [ -86.250229,40.240001 ]},
-      "properties": {"label": "Broilers (2) 24-May-2013"}}
+      "geometry": {"type": "Point", "coordinates": [ -86.250234,40.240746 ]},
+      "properties": {"label": "Layers (control) 24-May-2013"}},
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ -86.250261,40.239776 ]},
+      "properties": {"label": "Layers (experiment) 24-May-2013"}}
   ]
 }
